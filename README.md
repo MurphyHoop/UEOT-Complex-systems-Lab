@@ -106,4 +106,4 @@ Tailwind CSS: Styling.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-*Developed by Dr. Degui Qian. Part of the Universal Evolutionary Object Theory research
+*Developed by Dr. DQ Part of the Universal Evolutionary Object Theory research
