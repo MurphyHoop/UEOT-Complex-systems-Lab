@@ -12,9 +12,6 @@ Before UEOT, physics and biology were separated by a chasm. This simulation brid
 
 在 UEOT 之前，物理学与生物学之间存在鸿沟。本仿真通过将“客体”建模为由双重变分原理 ($\Pi/\Phi$) 驱动的动态拓扑闭环 ($\Omega$-loops)，成功连接了这两个领域。
 
-![Uploading image.png…]()
-
-
 🧬 Core Theory / 核心理论
 
 The simulation is built upon three foundational pillars of UEOT:
